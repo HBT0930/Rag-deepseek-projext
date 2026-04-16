@@ -67,6 +67,9 @@ print(f"完成: {len(result['completed'])} 个任务")
 print(f"失败: {len(result['failed'])} 个任务")
 print(f"总结: {result['summary']}")
 ```
+页面所示
+<img width="1842" height="910" alt="82b5f66642ecaf5a8df2e5dd9d06e1c" src="https://github.com/user-attachments/assets/df83f463-7575-46d7-8cab-d77aa2ce7851" />
+
 
 ### 4. 运行测试
 
