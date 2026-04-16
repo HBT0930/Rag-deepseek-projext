@@ -1,7 +1,7 @@
 import os
 
 # 从环境变量读取 API 密钥，如果未设置则使用默认值（仅用于开发）
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-d4a4cde27f574b1ea10ee6811a5139ae")
+DEEPSEEK_API_KEY = os.getenv("密钥链接")
 
 BASE_URL = "https://api.deepseek.com/v1"
 
